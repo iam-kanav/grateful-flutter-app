@@ -1,0 +1,14 @@
+
+
+
+
+
+
+
+PRODUCT_NAME = grateful_app
+
+
+PRODUCT_BUNDLE_IDENTIFIER = com.example.gratefulApp
+
+
+PRODUCT_COPYRIGHT = Copyright © 2025 com.example. All rights reserved.
